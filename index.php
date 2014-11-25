@@ -1,3 +1,3 @@
 grupo numero 3 jajajajaja
-copiado
 Victor Macias
+Joselyn Mindiola

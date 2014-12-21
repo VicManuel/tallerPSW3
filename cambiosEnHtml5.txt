@@ -1,0 +1,14 @@
+Audio y Video
+
+La reproducción de video -y audio, no hay que olvidar, se lleva a cabo mediante etiquetas como en los siguientes ejemplos:
+<video id="video" width="640" height="480" volume=".7" controls autoplay> 
+  <source src="video.ogg" type="video/ogg"> </source> 
+</video>
+
+y, en el caso del audio:
+
+<audio> 
+  <source src="music.oga" type="audio/ogg"> 
+</audio>
+
+
